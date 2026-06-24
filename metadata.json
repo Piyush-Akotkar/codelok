@@ -1,0 +1,6 @@
+{
+  "name": "CodeLok - Enterprise Cloud & AI Engineering",
+  "description": "CodeLok is a premium, enterprise-grade IT consulting and software engineering firm specializing in Cloud Infrastructure, DevOps, custom software development, and AI Integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
