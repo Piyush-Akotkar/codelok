@@ -25,9 +25,9 @@ export default function AboutView() {
 
   // Leadership bios
   const LEADERSHIP_TEAM = [
-    { name: "Prasanna Kumar", role: "Co-Founder & Chief Architect", bio: "Former Lead Infrastructure Architect at AWS Services India. Prasanna oversees all cloud migration pipelines and microservice architectures.", initial: "PK" },
-    { name: "Deepika Sen", role: "Head of AI Engineering", bio: "Alumni of Indian Institute of Science. Deepika pilots custom LLM deployments, semantic RAG systems, and automated agent flows.", initial: "DS" },
-    { name: "Sarah Jenkins", role: "VP of Client Operations", bio: "Over 12 years coordinating complex software handshakes for Fortune 500 clinical systems and logistics corporations.", initial: "SJ" }
+    { name: "Piyush", role: "Co-Founder & Chief Architect", bio: "Former Lead Infrastructure Architect at AWS Services India. Piyush oversees all cloud migration pipelines and microservice architectures.", initial: "PA" },
+    { name: "Gopal", role: "Head of AI Engineering", bio: "Alumni of Indian Institute of Science. Gopal pilots custom LLM deployments, semantic RAG systems, and automated agent flows.", initial: "GS" },
+    { name: "Sapna", role: "VP of Client Operations", bio: "Over 12 years coordinating complex software handshakes for Fortune 500 clinical systems and logistics corporations.", initial: "SA" }
   ];
 
   // Company Chronicle logs
