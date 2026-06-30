@@ -444,7 +444,7 @@ export const CODELOK_BLOGS: BlogPost[] = [
     id: "blog-1",
     title: "Optimizing AWS Lambda Cold Starts: An Enterprise Guide",
     category: "AWS & Serverless",
-    author: "Prasanna Kumar (Principal Architect)",
+    author: "Piyush (Principal Architect)",
     date: "June 12, 2026",
     readTime: "7 Min Read",
     summary: "How enterprise systems bypass severe cold-start latencies to maintain transaction responsiveness using customized runtime provisions and memory allocations.",

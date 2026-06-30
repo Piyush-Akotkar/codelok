@@ -159,7 +159,7 @@ export default function BlogView() {
               <div>
                 <h5 className="font-display text-xs font-bold text-white">{selectedBlog.author}</h5>
                 <p className="text-[10px] text-slate-400 leading-normal font-sans mt-0.5">
-                  CodeLok Senior Architect Desk. Prasanna and Deepika host certified technical advisory credentials with primary concentrations in container optimizations and vector DB pipelines.
+                  CodeLok Senior Architect Desk. Piyush and Sapna host certified technical advisory credentials with primary concentrations in container optimizations and vector DB pipelines.
                 </p>
               </div>
             </div>
